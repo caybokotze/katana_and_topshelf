@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Code\personal\AspNetSelfHostDemo\src" t="IncludeRecursive">
+      <e p="App.config" t="Include" />
+      <e p="AspNetSelfHostDemo.csproj" t="IncludeRecursive" />
+      <e p="AspNetSelfHostDemo.sln" t="IncludeFlat" />
+      <e p="Assets" t="Include">
+        <e p="data.json" t="Include" />
+        <e p="testfile.txt" t="Include" />
+      </e>
+      <e p="bin" t="ExcludeRecursive" />
+      <e p="CustomContentTypeProvider.cs" t="Include" />
+      <e p="CustomMiddleware.cs" t="Include" />
+      <e p="DemoController.cs" t="Include" />
+      <e p="NancyDemo.cs" t="Include" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="packages.config" t="Include" />
+      <e p="Program.cs" t="Include" />
+      <e p="Properties" t="Include">
+        <e p="AssemblyInfo.cs" t="Include" />
+      </e>
+      <e p="Startup.cs" t="Include" />
+      <e p="Webserver.cs" t="Include" />
+    </e>
+    <e p="C:\Users\caybo.kotze\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\caybo.kotze\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_AspNetSelfHostDemo.-1716392772.00" t="ExcludeRecursive" />
+  </component>
+</project>
